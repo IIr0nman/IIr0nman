@@ -5,4 +5,4 @@
 <br>  
 <p align="left">
 <p align="center" dir="auto">
-  <a href="https://strangerthings.atabook.org/">新book</a>  
+  <a href="https://tony.atabook.org/">新book</a>  
